@@ -2,7 +2,9 @@
 
 </br>
 
-Bem-vindo ao meu perfil! 👋 Sou Leandro Pereira, um desenvolvedor fullstack apaixonado por criar experiências web incríveis. Meu foco principal é em HTML, CSS e JavaScript.
+Bem-vindo ao meu perfil! 👋 Sou Leandro Pereira, um desenvolvedor fullstack apaixonado por criar experiências web incríveis.
+</br>
+Meu foco principal é em HTML, CSS e JavaScript.
 
 ## Sobre Mim
 
